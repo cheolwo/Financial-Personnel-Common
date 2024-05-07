@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("재무인사Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac77b2b645e08a0cc863be10c2c7f524aeb85ba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32a7275fa01c68bc72e6a64bb229d2318d080ee6")]
 [assembly: System.Reflection.AssemblyProductAttribute("재무인사Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("재무인사Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

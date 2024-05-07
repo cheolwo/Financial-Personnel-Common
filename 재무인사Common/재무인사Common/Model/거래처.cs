@@ -3,6 +3,19 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace 재무인사Common.Model
 {
+    public enum 외화거래처
+    {
+        원화,
+        달러,
+        엔화,
+        위안,
+        유로
+    }
+    public enum 업종구분
+    {
+        일반,
+        관세사
+    }
     public class 거래처
     {
         public string 거래처코드 { get; set; }
@@ -21,6 +34,8 @@ namespace 재무인사Common.Model
         public string Email { get; set; } // Email 주소 추가
 
         public bool 사용구분 { get; set; }
+        public 외화거래처 외화거래처 { get; set; }
+        public 업종구분 업종구분 { get; set; }
         public string 이체정보Json { get; set; } // JSON 문자열로 이체정보 저장
                                              // 이체정보 직렬화/역직렬화
         [NotMapped]
@@ -29,6 +44,11 @@ namespace 재무인사Common.Model
             get => 이체정보Json == null ? null : JsonConvert.DeserializeObject<이체정보>(이체정보Json);
             set => 이체정보Json = JsonConvert.SerializeObject(value);
         }
+    }
+    public class 은행
+    {
+        public int 코드 { get; set; }
+        public string? 기관명 { get; set; }
     }
 
     public class 이체정보
