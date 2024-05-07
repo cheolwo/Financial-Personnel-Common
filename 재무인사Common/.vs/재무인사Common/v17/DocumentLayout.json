@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Financial-Personnel-Common\\\uC7AC\uBB34\uC778\uC0ACCommon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4798AF23-ED4B-484A-B458-88B300251722}|\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon.csproj|c:\\users\\user\\desktop\\financial-personnel-common\\\uC7AC\uBB34\uC778\uC0ACcommon\\\uC7AC\uBB34\uC778\uC0ACcommon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4798AF23-ED4B-484A-B458-88B300251722}|\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon.csproj|solutionrelative:\uC7AC\uBB34\uC778\uC0ACcommon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4798AF23-ED4B-484A-B458-88B300251722}|\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon.csproj|c:\\users\\user\\desktop\\financial-personnel-common\\\uC7AC\uBB34\uC778\uC0ACcommon\\\uC7AC\uBB34\uC778\uC0ACcommon\\model\\\uC7AC\uBB34\uC778\uC0ACdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4798AF23-ED4B-484A-B458-88B300251722}|\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon.csproj|solutionrelative:\uC7AC\uBB34\uC778\uC0ACcommon\\model\\\uC7AC\uBB34\uC778\uC0ACdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4798AF23-ED4B-484A-B458-88B300251722}|\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon.csproj|c:\\users\\user\\desktop\\financial-personnel-common\\\uC7AC\uBB34\uC778\uC0ACcommon\\\uC7AC\uBB34\uC778\uC0ACcommon\\model\\\uAC70\uB798\uCC98.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4798AF23-ED4B-484A-B458-88B300251722}|\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon.csproj|solutionrelative:\uC7AC\uBB34\uC778\uC0ACcommon\\model\\\uAC70\uB798\uCC98.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 141,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Financial-Personnel-Common\\\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon\\Class1.cs",
-              "RelativeDocumentMoniker": "\uC7AC\uBB34\uC778\uC0ACCommon\\Class1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Financial-Personnel-Common\\\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon\\Class1.cs",
-              "RelativeToolTip": "\uC7AC\uBB34\uC778\uC0ACCommon\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "\uAC70\uB798\uCC98.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Financial-Personnel-Common\\\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon\\Model\\\uAC70\uB798\uCC98.cs",
+              "RelativeDocumentMoniker": "\uC7AC\uBB34\uC778\uC0ACCommon\\Model\\\uAC70\uB798\uCC98.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Financial-Personnel-Common\\\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon\\Model\\\uAC70\uB798\uCC98.cs",
+              "RelativeToolTip": "\uC7AC\uBB34\uC778\uC0ACCommon\\Model\\\uAC70\uB798\uCC98.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:16:31.143Z",
+              "WhenOpened": "2024-05-07T00:21:34.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC7AC\uBB34\uC778\uC0ACDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Financial-Personnel-Common\\\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon\\Model\\\uC7AC\uBB34\uC778\uC0ACDbContext.cs",
+              "RelativeDocumentMoniker": "\uC7AC\uBB34\uC778\uC0ACCommon\\Model\\\uC7AC\uBB34\uC778\uC0ACDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Financial-Personnel-Common\\\uC7AC\uBB34\uC778\uC0ACCommon\\\uC7AC\uBB34\uC778\uC0ACCommon\\Model\\\uC7AC\uBB34\uC778\uC0ACDbContext.cs",
+              "RelativeToolTip": "\uC7AC\uBB34\uC778\uC0ACCommon\\Model\\\uC7AC\uBB34\uC778\uC0ACDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:21:05.757Z",
               "EditorCaption": ""
             }
           ]
